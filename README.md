@@ -1,0 +1,6 @@
+# Jquery-assignment
+I'm not going to be doing anything major with this read me, as I'm just going to put in the plain text as is, and hopefully it comes out visually-alright. For this assignment, I had a very hard time wrapping my head around Jquery & Javascript. I've been going back and trying to reverse engineer how a certain thing is made and to my luck nothing would happen, so I was very grateful when I saw that you had your uploaded Jquery version as it would allow me to see and manipulate the files directly. Even though I tried to make it so that when you click on the image it is manipulated in different ways, I ultimately was not successful in creating some kind of an effect (& net art) because I used this assignment more to figure out what I was doing wrong and be able to apply that to future assignments. 
+
+I saw that you can substitute the contents of what the "buttons" affect with images, once I even had a different text size and style to see if that would effect it and it did the same thing as it would have to the original boxes, and i ultimately settled on using plainley images. 
+
+I did not focus on making it as visually appealling, but rather to catch up and formally understand what Jquery is and how to use it.
